@@ -7,7 +7,7 @@ const MovimentoSociais = () =>{
 <Titulos name="Nossos movimentos"/>
 <h2>Projetos apoiados pelo Ninas Gastrobar</h2>
 <br/>
-{/* <h3>adubagem</h3> */}
+<h3>adubagem</h3>
 <p>Os restos de comida deixados nos pratos sao usados como adubo em uma horta propria</p>
    <h3>apoios</h3>
    <p>o Fenila's restorant apoia diversos movimentos sociais e ambientais</p>
