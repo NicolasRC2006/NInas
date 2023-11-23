@@ -3,6 +3,7 @@ import Button from "../../components/Button";
 import SideBar from "../../components/SideBar";
 import { Link } from "react-router-dom";
 import "./style.css"
+import "./aa.jpeg"
 const Home = () => {
   const [isSideBarOpen, setIsSideBarOpen] = useState(false);
 
@@ -11,6 +12,7 @@ const Home = () => {
   };
   return (
     <div>
+      <img src="aa.jpeg"/>
       <h1 id="tals">home</h1>
       <Button name="SB" onClick={toggleSideBar} />
 
